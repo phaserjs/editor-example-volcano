@@ -12,14 +12,14 @@ import Stone from "../prefabs/Stone";
 import FollowObjectScript from "../script-nodes/FollowObjectScript";
 import Ladder from "../prefabs/Ladder";
 import Player from "../prefabs/Player";
-import { OnAwakeScript } from "@phasereditor2d/scripts-core";
-import { CameraStartFollowActionScript } from "@phasereditor2d/scripts-camera";
+import { OnAwakeScript } from "@phaserjs/editor-scripts-core";
+import { CameraStartFollowActionScript } from "@phaserjs/editor-scripts-camera";
 import FoodItem from "../prefabs/FoodItem";
 import PlayerButton from "../prefabs/PlayerButton";
-import { MoveInSceneActionScript } from "@phasereditor2d/scripts-simple-animations";
-import { DurationConfigComp } from "@phasereditor2d/scripts-simple-animations";
-import { DelayConfigComp } from "@phasereditor2d/scripts-simple-animations";
-import { FadeCameraActionScript } from "@phasereditor2d/scripts-camera";
+import { MoveInSceneActionScript } from "@phaserjs/editor-scripts-simple-animations";
+import { DurationConfigComp } from "@phaserjs/editor-scripts-simple-animations";
+import { DelayConfigComp } from "@phaserjs/editor-scripts-simple-animations";
+import { FadeCameraActionScript } from "@phaserjs/editor-scripts-camera";
 /* START-USER-IMPORTS */
 /* END-USER-IMPORTS */
 
