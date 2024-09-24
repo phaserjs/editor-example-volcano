@@ -3,7 +3,6 @@
 
 /* START OF COMPILED CODE */
 
-import Phaser from "phaser";
 /* START-USER-IMPORTS */
 import FoodItem from "./FoodItem";
 /* END-USER-IMPORTS */

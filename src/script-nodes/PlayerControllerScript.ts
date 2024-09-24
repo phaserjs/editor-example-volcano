@@ -3,9 +3,8 @@
 
 /* START OF COMPILED CODE */
 
-import { SpriteScript } from "@phaserjs/editor-scripts-core";
-import { ScriptNode } from "@phaserjs/editor-scripts-core";
-import Phaser from "phaser";
+import { SpriteScript } from "@phaserjs/editor-scripts-quick";
+import { ScriptNode } from "@phaserjs/editor-scripts-base";
 /* START-USER-IMPORTS */
 import Player from "../prefabs/Player";
 /* END-USER-IMPORTS */

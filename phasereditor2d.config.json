@@ -1,9 +1,8 @@
 {
     "plugins": [],
     "scripts": [
-        "@phaserjs/editor-scripts-core",
-        "@phaserjs/editor-scripts-simple-animations",
-        "@phaserjs/editor-scripts-camera"
+        "@phaserjs/editor-scripts-base",
+        "@phaserjs/editor-scripts-quick"
     ],
     "skip": [
         "dist", "design"

@@ -3,7 +3,6 @@
 
 /* START OF COMPILED CODE */
 
-import Phaser from "phaser";
 import ScrollFactorScript from "../script-nodes/ScrollFactorScript";
 import PlayerControllerScript from "../script-nodes/PlayerControllerScript";
 /* START-USER-IMPORTS */

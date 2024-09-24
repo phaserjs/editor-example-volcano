@@ -3,7 +3,6 @@
 
 /* START OF COMPILED CODE */
 
-import Phaser from "phaser";
 import ScrollFactorScript from "../script-nodes/ScrollFactorScript";
 import MovingPlatform1 from "../prefabs/MovingPlatform1";
 import HorizontalMoveScript from "../script-nodes/HorizontalMoveScript";
@@ -12,14 +11,14 @@ import Stone from "../prefabs/Stone";
 import FollowObjectScript from "../script-nodes/FollowObjectScript";
 import Ladder from "../prefabs/Ladder";
 import Player from "../prefabs/Player";
-import { OnAwakeScript } from "@phaserjs/editor-scripts-core";
-import { CameraStartFollowActionScript } from "@phaserjs/editor-scripts-camera";
+import { OnAwakeScript } from "@phaserjs/editor-scripts-quick";
+import { CameraStartFollowActionScript } from "@phaserjs/editor-scripts-quick";
 import FoodItem from "../prefabs/FoodItem";
 import PlayerButton from "../prefabs/PlayerButton";
-import { MoveInSceneActionScript } from "@phaserjs/editor-scripts-simple-animations";
-import { DurationConfigComp } from "@phaserjs/editor-scripts-simple-animations";
-import { DelayConfigComp } from "@phaserjs/editor-scripts-simple-animations";
-import { FadeCameraActionScript } from "@phaserjs/editor-scripts-camera";
+import { MoveInSceneActionScript } from "@phaserjs/editor-scripts-quick";
+import { DurationConfigComp } from "@phaserjs/editor-scripts-quick";
+import { DelayConfigComp } from "@phaserjs/editor-scripts-quick";
+import { FadeCameraActionScript } from "@phaserjs/editor-scripts-quick";
 /* START-USER-IMPORTS */
 /* END-USER-IMPORTS */
 
