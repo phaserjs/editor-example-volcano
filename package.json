@@ -13,7 +13,7 @@
   "dependencies": {
     "@phaserjs/editor-scripts-base": "^1.0.0",
     "@phaserjs/editor-scripts-quick": "^1.0.0",
-    "phaser": "^3.80.1"
+    "phaser": "^3.88.2"
   },
   "devDependencies": {
     "clean-webpack-plugin": "^3.0.0",
